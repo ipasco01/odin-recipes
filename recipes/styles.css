@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:wght@400;800&display=swap');
+h1,h2,h3,h4,h5,h6,p,ul,ol,li{
+    font-family: 'Rethink Sans', sans-serif;
+}
+h1{
+    font-family: 'Rethink Sans', sans-serif;
+    font-size: xx-large;
+    background-color: whitesmoke;
+    padding: 1%;
+    color: black;
+}
+a{
+    font-family: 'Rethink Sans', sans-serif;
+    font-size: medium;
+}
+a:link{
+    color: cadetblue;
+}
+a:visited {
+    color:crimson;
+    }
+body{
+    height:1000px;
+    margin: 10%;
+
+}
+img {
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
